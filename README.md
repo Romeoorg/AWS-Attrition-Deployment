@@ -58,3 +58,13 @@ The Synthetic Employee Attrition Dataset is designed for analyzing and predictin
 
 ## Conclusion
 In this project, we successfully developed a logistic regression model to predict employee attrition using the Synthetic Employee Attrition Dataset. The process involved multiple steps, from data preparation and exploratory data analysis to model training and deployment using Amazon SageMaker. This demonstrates the end-to-end process of building, training, and deploying a machine learning model in a cloud environment. The deployed model can now be used for HR analytics to predict employee turnover, providing valuable insights for decision-making. By leveraging Amazon SageMaker, the process was efficient and scalable, showcasing the power of cloud-based machine learning.
+
+## References
+
+- [Link to Dataset](https://www.kaggle.com/datasets/stealthtechnologies/employee-attritiondataset?select=train.csv)
+- Any other relevant links or references
+
+## Contact
+
+For any questions or contributions, feel free to contact me at [romeo.sebola@gmail.com](mailto:romeo.sebola@gmail.com).
+
