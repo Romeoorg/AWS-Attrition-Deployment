@@ -61,7 +61,7 @@ In this project, we successfully developed a logistic regression model to predic
 
 ## References
 
-- [Link to Dataset](https://www.kaggle.com/datasets/stealthtechnologies/employee-attritiondataset?select=train.csv)
+- [Link to Dataset](https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset?select=train.csv)
 - Any other relevant links or references
 
 ## Contact
